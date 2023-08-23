@@ -90,14 +90,14 @@ If you'd like to keep track of your progress, feel free to use the checklist bel
 #### Single Data Sets
 - [ ] kitties
 - [ ] puppers
-- [ ] club
-- [ ] mods
-- [ ] cakes
-- [ ] classrooms
-- [ ] books
-- [ ] weather
-- [ ] nationalParks
 - [ ] breweries
+- [ ] mods
+- [ ] weather
+- [ ] classrooms
+- [ ] nationalParks
+- [ ] cakes
+- [ ] books
+- [ ] club
 
 ### Double Data Sets
 - [ ] turing (instructors, cohorts)
