@@ -88,16 +88,16 @@ You will then check that your solution is correct by running the corresponding t
 If you'd like to keep track of your progress, feel free to use the checklist below. Change the `[ ]` to `[x]` in order to check off each item.
 
 #### Single Data Sets
-- [ ] kitties
-- [ ] puppers
-- [ ] breweries
-- [ ] mods
-- [ ] weather
-- [ ] classrooms
-- [ ] nationalParks
-- [ ] cakes
-- [ ] books
-- [ ] club
+- [x] kitties
+- [x] puppers
+- [x] mods
+- [x] weather
+- [x] breweries
+- [x] classrooms
+- [x] nationalParks
+- [x] cakes
+- [x] books
+- [x] club
 
 ### Double Data Sets
 - [ ] turing (instructors, cohorts)
